@@ -1,2 +1,2 @@
 # frenzyboi.github.io
-hmm
+hello, this is my github pages website
