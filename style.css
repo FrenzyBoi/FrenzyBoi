@@ -1,0 +1,4 @@
+function random_color() {
+  var colors = ["red", "green", "blue", "yellow", "orange", "purple"];
+  return colors[Math.floor(Math.random() * 6)];
+}
